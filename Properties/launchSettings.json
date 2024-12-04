@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "1 Profili": {
+      "commandName": "Executable"
+    },
+    "2 Profili": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
